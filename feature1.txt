@@ -1,5 +1,7 @@
 New feature for merging 
 
+Creating require change
+
 Implemented feature1 
 
 
