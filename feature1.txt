@@ -1,1 +1,5 @@
-Implemented feature1
+New feature for merging 
+
+Implemented feature1 
+
+
