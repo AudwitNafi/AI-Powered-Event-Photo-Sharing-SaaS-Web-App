@@ -1,5 +1,7 @@
 # Full-Stack Developer/Team to Build AI-Powered Event Photo Sharing SaaS Web App
 
+(dev branch)
+
 ## Project Overview
 We aim to develop a cloud-based SaaS web application tailored for photographers and event organizers. The platform will allow users to upload event photos to the cloud, where attendees can instantly find their photos using AI facial recognition. The goal is to streamline photo delivery, enhance client engagement, and provide a branded, secure experience. The app must mirror core functionalities of leading AI photo-sharing platforms (e.g., facial recognition, event management, analytics) while prioritizing scalability and user experience.
 
