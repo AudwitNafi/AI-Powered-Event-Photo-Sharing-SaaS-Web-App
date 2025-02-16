@@ -1,5 +1,7 @@
 New feature for merging 
 
+change for conflict
+
 Implemented feature1 
 
 
