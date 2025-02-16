@@ -1,6 +1,10 @@
 New feature for merging 
 
+
 change for conflict
+
+Creating require change
+
 
 Implemented feature1 
 
